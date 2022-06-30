@@ -15,19 +15,19 @@ document.getElementById('stoopid').onclick = function () {
 }
 
 function good() {
-    location.href = 'good.html'
+    location.href = "good.html";
 }
 
 function bad() {
-    location.href = 'bad.html'
+    location.href = "bad.html";
 }
 
 function unsure() {
-    location.href = 'unsure.html'
+    location.href = "unsure.html";
 }
 
 function stoopid() {
-    location.href = 'stoopid.html'
+    location.href = "stoopid.html";
 }
 
 function taxSubmit(){
