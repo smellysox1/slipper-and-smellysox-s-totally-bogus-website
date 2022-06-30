@@ -23,5 +23,5 @@ function gohome(){
   location.href = "index.html;
 }
 function nowayhome(){
-  document.getElementById("noesc").innerHTML = "there is no escape from KERMIT";
+  document.getElementById("noesc").innerHTML = <h1>there is no escape from KERMIT</h1>;
 }
