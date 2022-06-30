@@ -1,7 +1,7 @@
 
 
 function good() {
-    location.href = 'good.html';
+    location.href = "https://smellysox1.github.io/slipper-and-smellysox-s-totally-bogus-website/good.html";
 }
 
 function bad() {
