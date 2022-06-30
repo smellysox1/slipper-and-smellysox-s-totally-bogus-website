@@ -1,18 +1,4 @@
-=document.getElementById('good').onclick = function () {
-    location.href = 'good.html';
-}
 
-document.getElementById('bad').onclick = function () {
-    location.href = 'bad.html';
-}
-
-document.getElementById('unsure').onclick = function () {
-    location.href = 'unsure.html';
-}
-
-document.getElementById('stoopid').onclick = function () {
-    location.href = 'stoopid.html';
-}
 
 function good() {
     location.href = 'good.html';
